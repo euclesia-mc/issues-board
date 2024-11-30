@@ -3,7 +3,7 @@ name: Suggestion/Modification d'une fonctionnalité
 about: Suggérer une modification/ajout d'une fonctionnalité
 title: "[SUGGESTION] Ajout/Modification de **"
 labels: Amélioration
-assignees: Histokaa, KuroLynx, mathcroft, zolkers
+assignees: KuroLynx
 
 ---
 

@@ -3,7 +3,7 @@ name: Rapport de bug
 about: 'Créer un rapport du bug '
 title: "[BUG] Discord/Minecraft : Sujet"
 labels: Bug
-assignees: Histokaa, KuroLynx, mathcroft, zolkers
+assignees: KuroLynx
 
 ---
 
